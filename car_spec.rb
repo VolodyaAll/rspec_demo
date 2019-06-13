@@ -1,6 +1,6 @@
 require './car'
 
-describe car do
+describe Car do
   it "must return range" do
     #arrange
 
